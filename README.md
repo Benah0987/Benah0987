@@ -4,8 +4,8 @@ Hi there! 👋 I'm Benayah Wanyoike, a passionate Software Engineer and ICT cons
 ##About Me
 
 1. 🔭 I'm currently working on software engineering school projects.
-2. 🌱 I'm continuously learning and improving my skills in different technologies or areas of interest.
-3. 👯 I'm always looking to collaborate on AI projects.
+2. 🌱 I'm continuously learning and improving my skills in making professional websites and softwares or areas of interest.
+3. 👯 I'm always looking to collaborate on building and making websites.
 4. 🤔 I'm interested in AI and its collaboration with data science.
 5. 💬 Ask me about IT related events, sports and Movies to watch, books to read.
 6. 📫 How to reach me: wanyoikebenayah77@gmail.com.
