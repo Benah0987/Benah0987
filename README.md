@@ -1,5 +1,5 @@
 ### Hi there
-Hi there! 👋 I'm Benayah Wanyoike, a passionate Software Engineer and ICT consultant with a love for adventures and travel, book reading and sports. Welcome to my GitHub!
+Hi there! 👋 I'm Benayah Wanyoike, a Software Engineer and ICT consultant with a love for adventures and travel, book reading and sports. Welcome to my GitHub!
 
 ##About Me
 
