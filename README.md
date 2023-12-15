@@ -6,7 +6,7 @@ Hi there! 👋 I'm Benayah Wanyoike, a Software Engineer and ICT consultant with
 1. 🔭 I'm currently working on software engineering projects, currently a house hunting project.
 2. 🌱 I'm continuously learning and improving my skills in making professional websites and softwares or areas of interest.
 3. 👯 I'm always looking to collaborate on building and making websites.
-4. 🤔 I'm interested in AI and its collaboration with data science.
+4. 🤔 I'm interested in AI and its collaboration with Software Engineering.
 5. 💬 Ask me about IT related events, sports and Movies to watch, books to read.
 6. 📫 How to reach me: wanyoikebenayah77@gmail.com.
 7. 😄 Pronouns: He\him
