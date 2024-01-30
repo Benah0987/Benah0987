@@ -3,7 +3,7 @@ Hi there! 👋 I'm Benayah Wanyoike, a Software Engineer and ICT consultant with
 
 ##About Me
 
-1. 🔭 I'm currently working on software engineering projects, currently a house hunting project.
+1. 🔭 I'm currently working on software engineering projects, preparing for a communication project project.
 2. 🌱 I'm continuously learning and improving my skills in making professional websites and softwares or areas of interest.
 3. 👯 I'm always looking to collaborate on building and making websites.
 4. 🤔 I'm interested in AI and its collaboration with Software Engineering.
