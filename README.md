@@ -3,7 +3,7 @@ Hi there! 👋 I'm Benayah Wanyoike, a Software Engineer and ICT consultant with
 
 ##About Me
 
-1. 🔭 I'm currently working on software engineering projects, preparing for a communication project.
+1. 🔭 I'm currently working on software engineering projects, currently am learning MERN stack to become a FullStack developer.
 2. 🌱 I'm continuously learning and improving my skills in making professional websites and softwares or areas of interest.
 3. 👯 I'm always looking to collaborate on building and making websites.
 4. 🤔 I'm interested in AI and its collaboration with Software Engineering.
@@ -15,7 +15,8 @@ Hi there! 👋 I'm Benayah Wanyoike, a Software Engineer and ICT consultant with
 
 ####Languages and Tools Below are some of the languages and tools I frequently work with:
 
-React, JavaScript, Python, Ruby on rails
+React, JavaScript, Python, Ruby on rails,
+MERN stack
 
 ##Let's Connect! 
 LinkedIn: https://www.linkedin.com/in/benayah-kimama-9a3192236/ Email: wanyoikebenayah77@gmail.com Feel free to reach out if you have any questions, want to collaborate, or just to say hi!
